@@ -10,14 +10,13 @@ Development Process: Agile Development
 
 Committing way: feature branch workflow by committing branches and submit pull requests to have code reviewed and committed to the master branch
 
-- Yiwen Sun: [github link here]
-- Yu Tang
-- Jiayao Li
+- Yiwen Sun: sun.yiw@northeastern.edu
+- Yu Tang: tang.y@northeastern.edu
+- Jiayao Li: li.jiayao@northeastern.edu
 ## Problem Solved
 
 - Problem description
-
-  This is a music application for Apple community that supports music lovers to share and search music. Users can publish their music, edit and delete their post and explore things by different categories.
+ Provides a platform for apple music customers to follow their favorite artists, share playlists.Users can publish their music, edit and delete their post and explore things by different categories.
 
 - Target Users
 
